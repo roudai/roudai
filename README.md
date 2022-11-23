@@ -1,3 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roudai&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roudai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/roudai">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=roudai&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/roudai">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudai&layout=compact&theme=dracula" />
+</a>
