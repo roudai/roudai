@@ -1,3 +1,10 @@
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=roudai&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudai&layout=compact&show_icons=true&theme=onedark" />
+</p>
+
+# これまで作ったもの
+
 ## アイドリッター
 いわゆる地下アイドルグループに所属するアイドルを監視するTwitterBot  
 Twitterアカウント：[@Idol_itter](https://twitter.com/Idol_itter)  
@@ -30,9 +37,16 @@ GitHub Pages
 メガミンクスの画像を作成する画像エディタ  
 https://roudai.github.io/MegaminxImageEditor/
 
-<p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=roudai&theme=onedark&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudai&layout=compact&show_icons=true&theme=onedark" />
-</p>
+## PLL Trainer
+PLL 2側面判断トレーナー  
+https://roudai.github.io/PLLTrainer/  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=roudai)](https://github.com/ryo-ma/github-profile-trophy)
+## われプワワンマンライブ非公式
+われらがプワプワプーワプワワンマンライブ、PIF2019～プ宙人いっぱいフェスティバル～特設非公式サイト。
+https://roudai.github.io/puwathecity/
+
+## 柴田あいこ誕生祭2020特設サイト
+https://roudai.github.io/shibata2020/
+
+## メガメガミ非公式ファンサイト
+https://roudai.github.io/megamegami/
