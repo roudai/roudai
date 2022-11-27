@@ -3,12 +3,16 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudai&layout=compact&show_icons=true&theme=onedark" />
 </p>
 
+Twitter : [@roudainet](https://twitter.com/roudainet)
+
 # これまで作ったもの
 
 ## アイドリッター
 いわゆる地下アイドルグループに所属するアイドルを監視するTwitterBot  
 Twitterアカウント：[@Idol_itter](https://twitter.com/Idol_itter)  
 詳細・仕様：https://github.com/roudai/IdolitterTS  
+Googleスプレッドシート  
+Google Apps Script(Typescript+clasp)
 
 ## ろーだいねっと
 中・上級者向けのためルービックキューブ解説・手順サイト  
