@@ -3,7 +3,16 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudai&layout=compact&show_icons=true&theme=onedark" />
 </p>
 
-Twitter : [@roudainet](https://twitter.com/roudainet)
+### Twitter
+
+[@roudainet](https://twitter.com/roudainet)
+
+### ルービックキューブ
+
+アジア大会2012 ルービッククロック3位  
+日本大会2013　ルービッククロック3位、ピラミンクス3位  
+アジア大会2014　最少手数3位  
+日本大会2016　最少手数3位  
 
 # これまで作ったもの
 
