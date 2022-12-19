@@ -23,6 +23,12 @@ Twitterアカウント：[@Idol_itter](https://twitter.com/Idol_itter)
 Googleスプレッドシート  
 Google Apps Script(Typescript+clasp)
 
+## 1にち1コマちゃん、1にち4コマちゃん
+われプワのこまるちゃんをテーマにした漫画のまとめサイト。
+https://komachan.pw
+Nuxt 2.15.8
+Google Cloud Run
+
 ## ろーだいねっと
 中・上級者向けのためルービックキューブ解説・手順サイト  
 https://roudai.net  
