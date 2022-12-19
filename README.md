@@ -24,9 +24,9 @@ Googleスプレッドシート
 Google Apps Script(Typescript+clasp)
 
 ## 1にち1コマちゃん、1にち4コマちゃん
-われプワのこまるちゃんをテーマにした漫画のまとめサイト。
-https://komachan.pw
-Nuxt 2.15.8
+われプワのこまるちゃんをテーマにした漫画のまとめサイト。  
+https://komachan.pw  
+Nuxt 2.15.8  
 Google Cloud Run
 
 ## ろーだいねっと
