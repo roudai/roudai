@@ -50,6 +50,10 @@ Nuxt 2.15.8
 Nuxt Buefy 0.4.24  
 GitHub Pages
 
+## あなたの知らないルービックキューブの世界～大会編～
+ルービックキューブの大会に関するまとめ
+https://competition.roudai.net/
+
 ## VisualCube Editor 2.0
 ルービックキューブの画像を簡単に作ることができる画像エディタ  
 https://visualcube.roudai.net/  
