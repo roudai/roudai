@@ -33,21 +33,21 @@ Google Apps Script(Typescript+clasp)
 ## 1にち1コマちゃん、1にち4コマちゃん
 われプワのこまるちゃんをテーマにした漫画のまとめサイト。  
 https://komachan.pw  
-Nuxt 2.15.8  
+Nuxt 2.16.3  
 Google Cloud Run
 
 ## ろーだいねっと
 中・上級者向けのためルービックキューブ解説・手順サイト  
 https://roudai.net  
-Nuxt 2.15.8  
-Nuxt Buefy 0.4.24  
+Nuxt 2.16.3  
+Nuxt Buefy 0.4.25  
 GitHub Pages  
 
 ## ブログ版ろーだいねっと アーカイブ
 ブログ版ろーだいねっとの人気記事をまとめたアーカイブサイト  
 https://blog.roudai.net  
-Nuxt 2.15.8  
-Nuxt Buefy 0.4.24  
+Nuxt 2.16.3  
+Nuxt Buefy 0.4.25  
 GitHub Pages
 
 ## あなたの知らないルービックキューブの世界～大会編～
