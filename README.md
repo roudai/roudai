@@ -51,7 +51,7 @@ Nuxt Buefy 0.4.25
 GitHub Pages
 
 ## あなたの知らないルービックキューブの世界～大会編～
-ルービックキューブの大会に関するまとめ
+ルービックキューブの大会に関するまとめ  
 https://competition.roudai.net/
 
 ## VisualCube Editor 2.0
