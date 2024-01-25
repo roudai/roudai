@@ -16,20 +16,6 @@
 
 # これまで作ったもの
 
-## アイドリッター（Webサイト）
-日本最大の現役アイドル情報データベース。  
-https://idolitter.net/  
-Nuxt 2.15.8  
-Nuxt Buefy 0.4.24  
-Firebase Hosting
-
-## アイドリッター（ツイッターボット）
-いわゆる地下アイドルグループに所属するアイドルを監視するTwitterBot  
-Twitterアカウント：[@Idol_itter](https://twitter.com/Idol_itter)  
-詳細・仕様：https://github.com/roudai/IdolitterTS  
-Googleスプレッドシート  
-Google Apps Script(Typescript+clasp)
-
 ## 1にち1コマちゃん、1にち4コマちゃん
 われプワのこまるちゃんをテーマにした漫画のまとめサイト。  
 https://komachan.pw  
